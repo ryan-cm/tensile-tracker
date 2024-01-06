@@ -6,10 +6,10 @@ At the moment, Tensile Tracker is intended to be simple web server for the Ardui
 
 ## Eventual Features:
 
-**Real-time Tensile Strength Measurement**: Measures and records the tension exerted by the fingers up to 200 kg force.
-**Web Server Integration**: Seamlessly uploads the measured data to a dedicated web server for real-time tracking and historical analysis.
-**User-friendly Data Visualization**: Intuitive and detailed graphical representations of tensile strength over time, aiding climbers in tracking their progress.
-**Climber-focused Design**: Specifically tailored for climbers aiming to improve finger strength, offering insights into performance and training effectiveness.
+* **Real-time Tensile Strength Measurement**: Measures and records the tension exerted by the fingers up to 200 kg force.
+* **Web Server Integration**: Seamlessly uploads the measured data to a dedicated web server for real-time tracking and historical analysis.
+* **User-friendly Data Visualization**: Intuitive and detailed graphical representations of tensile strength over time, aiding climbers in tracking their progress.
+* **Climber-focused Design**: Specifically tailored for climbers aiming to improve finger strength, offering insights into performance and training effectiveness.
 
 ## Getting Started:
 Wait for further progress on the firmware...
