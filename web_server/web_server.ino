@@ -36,5 +36,5 @@ void loop() {
 }
 
 int testData() {
-  return analogRead(8); // Example: read analog value
+  return 8; // Example: read analog value
 }
